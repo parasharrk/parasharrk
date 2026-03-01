@@ -238,16 +238,6 @@ Jest · Playwright · Pytest · RSpec · Selenium
 
 ---
 
-## Projects
-
-> A few things I've built — check out my [repositories](https://github.com/parasharrk?tab=repositories) for more.
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| *(coming soon)* | *Add your projects here* | — |
-
----
-
 <p align="center">
   <i>Open to collaborations and interesting conversations.</i>
 </p>

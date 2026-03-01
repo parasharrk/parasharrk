@@ -157,12 +157,54 @@ Jest · Playwright · Pytest · RSpec · Selenium
 <summary><b>Tools & Productivity</b></summary>
 <br>
 
+**Editors & Terminal**
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+![Warp](https://img.shields.io/badge/Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)
 
-VS Code · Neovim · Postman · Claude Code
+**AI-Assisted Dev**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**API & Dev Tools**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-FF7900?style=for-the-badge&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![curl](https://img.shields.io/badge/curl-073551?style=for-the-badge&logo=curl&logoColor=white)
+![HTTPie](https://img.shields.io/badge/HTTPie-73DC8C?style=for-the-badge&logo=httpie&logoColor=black)
+
+**Containers & Local Dev**
+
+![DevContainers](https://img.shields.io/badge/DevContainers-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![k9s](https://img.shields.io/badge/k9s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Lens](https://img.shields.io/badge/Lens-3D90CE?style=for-the-badge&logoColor=white)
+
+**Database Tools**
+
+![TablePlus](https://img.shields.io/badge/TablePlus-F6A623?style=for-the-badge&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Collaboration & Project**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black)
 
 </details>
 

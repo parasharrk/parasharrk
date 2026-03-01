@@ -179,12 +179,16 @@ Jest · Playwright · Pytest · RSpec · Selenium
 ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Warp](https://img.shields.io/badge/Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)
 
+VS Code · Neovim · Tmux · Warp
+
 **AI-Assisted Dev**
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+Claude Code · Cursor · GitHub Copilot · Codex
 
 **API & Dev Tools**
 
@@ -194,17 +198,23 @@ Jest · Playwright · Pytest · RSpec · Selenium
 ![curl](https://img.shields.io/badge/curl-073551?style=for-the-badge&logo=curl&logoColor=white)
 ![HTTPie](https://img.shields.io/badge/HTTPie-73DC8C?style=for-the-badge&logo=httpie&logoColor=black)
 
+Postman · Bruno · Insomnia · curl · HTTPie
+
 **Containers & Local Dev**
 
 ![DevContainers](https://img.shields.io/badge/DevContainers-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![k9s](https://img.shields.io/badge/k9s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Lens](https://img.shields.io/badge/Lens-3D90CE?style=for-the-badge&logoColor=white)
 
+DevContainers · k9s · Lens
+
 **Database Tools**
 
 ![TablePlus](https://img.shields.io/badge/TablePlus-F6A623?style=for-the-badge&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+TablePlus · DBeaver · pgAdmin
 
 **Collaboration & Project**
 
@@ -220,6 +230,8 @@ Jest · Playwright · Pytest · RSpec · Selenium
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black)
+
+GitHub · Jira · Linear · Trello · GitHub Projects · Slack · Discord · Confluence · Notion · Obsidian · Figma · Miro
 
 </details>
 

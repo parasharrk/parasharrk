@@ -5,6 +5,18 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/rparashar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/1656986/raghvendra-parashar">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="https://github.com/parasharrk">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/parasharrk">
     <img src="https://komarev.com/ghpvc/?username=parasharrk&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>

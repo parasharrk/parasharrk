@@ -26,10 +26,13 @@
 
 ## About Me
 
-- 🔭 Full stack developer who enjoys building clean, purposeful software
-- 🌱 Always exploring new tools, frameworks, and ideas
-- 💬 Ask me about **Python**, **TypeScript**, or **JavaScript**
-- 📫 Reach me via [GitHub](https://github.com/parasharrk)
+- 🔭 Full stack developer building end-to-end systems with **Python**, **TypeScript**, **Go**, and **Ruby**
+- 🧠 Working with AI/LLM APIs — **Claude**, **OpenAI**, **LangChain**, **LangGraph**, and **MCP** for agentic workflows
+- ☁️ Shipping on **AWS** and **GCP** with **Kubernetes**, **Terraform**, **Helm**, and **ArgoCD**
+- 🌐 Building web apps with **Next.js**, **React**, **FastAPI**, and **Node.js**
+- 🛠️ Passionate about developer tooling, clean architecture, and observable systems
+- 💬 Ask me about **Python**, **TypeScript**, **AI integrations**, or **DevOps**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rparashar/) or [Stack Overflow](https://stackoverflow.com/users/1656986/raghvendra-parashar)
 
 ---
 
